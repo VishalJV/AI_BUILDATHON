@@ -9,6 +9,9 @@ Tanisha Agarwal (Teammate)
 Ronak Sethi (Teammate)
 Vishal Jogu (Teammate)
 hope you learnt something new from our project. Happy coding😊 
+
+
+Actual problem and the solution:-
 If you've ever tried manually scheduling university exams, handling student course overlaps, assigning rooms, and making sure best friends taking the same exam aren't sitting right next to each other—you already know what an absolute nightmare it is.
 
 we built this app to solve exactly that. It's an automated, AI-assisted exam timetabling and seating arrangement system tailored for JK Lakshmipat University (JKLU), packed with a smart layout engine, natural language assistant, and clean PDF/Excel report generators.
