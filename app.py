@@ -1666,7 +1666,7 @@ if role == "Admin":
                 st.rerun()
             else:
                 st.sidebar.error("Wrong PIN")
-        st.sidebar.caption("Demo PIN: admin123 (type it, then click Login)")
+        st.sidebar.caption(" (type it, then click Login)")
     else:
         if st.sidebar.button("Logout"):
             S["admin_ok"] = False
